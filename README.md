@@ -1,5 +1,7 @@
 # 1. Bot3 AI Overview
-Bot3 AI is a revolutionary multi-language AI chatbot platform. Chat with unique virtual characters and craft your own NSFW chatbot personas tailored to your imagination. Bot3 AI offers 100 free message credits, which is sufficient for users to experience this exciting virtual companion platform.
+>Bot3 AI is a revolutionary multi-language AI chatbot platform. Chat with unique virtual characters and craft your own NSFW chatbot personas tailored to your imagination.
+
+Bot3 AI offers 100 free message credits, which is sufficient for users to experience this exciting virtual companion platform.
 
 1.1 [Product Introduction](1.1_Product_Introduction.md)
 
