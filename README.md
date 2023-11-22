@@ -11,7 +11,7 @@
 1.4 [Pricing](1.4_Pricing.md)
 
 
-# 2. 📚 [Bot3 AI](https://bot3.ai/en?source=github)  Usage Tutorial
+# 2. 📚 [Bot3 AI](https://bot3.ai/en?source=github)  User Guide
 2.1 [How to Register](2.1_How_to_use_Bot3_AI.md)
 
 2.2 [How to Create a Bot](2.2_How_to_Create_a_Bot.md)
