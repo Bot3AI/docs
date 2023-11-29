@@ -19,6 +19,13 @@ body {
     display: none;
 }
 
+.sidebar-heading {
+    .title {
+        font-weight: 700;
+        font-size: 1.1em !important;
+    }
+}
+
 div[class*=language-]>button.copy-code-button:not(.pure) {
     background: #8687fb !important;
 }

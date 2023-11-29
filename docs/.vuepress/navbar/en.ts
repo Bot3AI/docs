@@ -8,6 +8,6 @@ export const enNavbar = navbar([
 
   {
     text: "Introduction",
-    link: "/introduction/"
+    link: "/introduction/overview/1.1_Product_Introduction.md"
   }
 ]);
