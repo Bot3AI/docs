@@ -29,6 +29,10 @@ contributors: false
 
 2.3 [FAQ](2.3_FAQ.md)
 
+2.4 [How to Generate Character Images](./introduction/user-guide/2.4_How_to_Generate_Character_Images.md)
+
+2.5 [How to Share Exciting Chats](./introduction/user-guide/2.5_How_to_Share_Exciting_Chats.md)
+
 
 ## 3. 🔄 [Bot3 AI](https://bot3.ai/en?source=github)  Updates and Version Information
 3.1 [Update History](./introduction/updates/3.1_Update_History.md)
