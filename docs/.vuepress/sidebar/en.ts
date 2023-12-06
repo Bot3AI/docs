@@ -23,7 +23,9 @@ export const enSidebar = sidebar({
       children: [
         "/introduction/user-guide/2.1_How_to_use_Bot3_AI.md",
         "/introduction/user-guide/2.2_How_to_Create_a_Bot.md",
-        "/introduction/user-guide/2.3_FAQ.md"
+        "/introduction/user-guide/2.3_FAQ.md",
+        "/introduction/user-guide/2.4_How_to_Generate_Character_Images.md",
+        "/introduction/user-guide/2.5_How_to_Share_Exciting_Chats.md"
       ],
     },
     {
