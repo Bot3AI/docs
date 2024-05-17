@@ -25,7 +25,8 @@ export const enSidebar = sidebar({
         "/introduction/user-guide/2.2_How_to_Create_a_Bot.md",
         "/introduction/user-guide/2.3_FAQ.md",
         "/introduction/user-guide/2.4_How_to_Generate_Character_Images.md",
-        "/introduction/user-guide/2.5_How_to_Share_Exciting_Chats.md"
+        "/introduction/user-guide/2.5_How_to_Share_Exciting_Chats.md",
+        "/introduction/user-guide/2.6_How_to_join_telegram_mini_app.md"
       ],
     },
     {
